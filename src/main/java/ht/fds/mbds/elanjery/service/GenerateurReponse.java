@@ -1,4 +1,4 @@
-package org.example.service;
+package ht.fds.mbds.elanjery.service;
 
 import jakarta.enterprise.context.Dependent;
 import java.io.Serializable;

@@ -1,6 +1,6 @@
-package org.example.jsf;
+package ht.fds.mbds.elanjery.jsf;
 
-import org.example.service.GenerateurReponse;
+import ht.fds.mbds.elanjery.service.GenerateurReponse;
 import jakarta.faces.application.FacesMessage;
 import jakarta.faces.context.FacesContext;
 import jakarta.faces.model.SelectItem;
